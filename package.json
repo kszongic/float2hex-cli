@@ -1,0 +1,31 @@
+{
+  "name": "float2hex-cli",
+  "version": "1.0.0",
+  "description": "Convert floating-point numbers to their IEEE 754 hex representation and back. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "float2hex": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js 3.14"
+  },
+  "keywords": [
+    "float",
+    "hex",
+    "ieee754",
+    "convert",
+    "binary",
+    "cli"
+  ],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/float2hex-cli"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
