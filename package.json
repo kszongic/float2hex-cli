@@ -1,5 +1,5 @@
 {
-  "name": "float2hex-cli",
+  "name": "@kszongic/float2hex-cli",
   "version": "1.0.0",
   "description": "Convert floating-point numbers to their IEEE 754 hex representation and back. Zero dependencies.",
   "main": "index.js",
